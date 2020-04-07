@@ -15,5 +15,5 @@ Sets up a project with ServerlessOps project conventions. These conventions incl
 To use, provide the url to this repository when creating a project.
 
 ```
-sls create -u http://ccvmgit/netbase-services/platform/serverless/python-serverless -p <PATH> -n <NAME>
+sls create -u https://github.com/danb1878/python-serverless -p <PATH> -n <NAME>
 ```
